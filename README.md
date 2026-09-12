@@ -1,2 +1,5 @@
-# Natan-finan-as-
-Aplicativo pessoal de controle financeiro
+# Natan Finanças
+
+Aplicativo pessoal para organizar movimentações, comprovantes e projeções financeiras.
+
+Os dados inseridos ficam armazenados no próprio aparelho.
